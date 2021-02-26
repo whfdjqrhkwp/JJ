@@ -1,2 +1,2 @@
 # JJ
-Graduation assignment
+Graduation Project
