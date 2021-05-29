@@ -176,15 +176,3 @@ class Calculator(object):
         cls.text_score_gram = list([0] * cls.Grade)
         
 
-
-# In[ ]:
-
-
-def resource_path(relative_path):
-    try:
-        base_path = sys._MEIPASS
-    except Exception:
-        base_path = os.path.abspath('.')
-
-    return os.path.join(base_path, relative_path)
-
